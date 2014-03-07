@@ -10,6 +10,7 @@
 		
 		</div>
 		<div id="content">
+			<div id="points"></div>
 			<div id="btn_cross"><img src="img/logo_128.png" alt="Cross" title="Pray!"/></div>
 		</div>
 		<div id="footer">
