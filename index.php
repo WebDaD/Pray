@@ -7,14 +7,14 @@
 	</head>
 	<body>
 		<div id="header"> <!-- TODO: bg black -->
-			<img id="logo" src="img/logo_32.png" alt="logo" title="Pray!"/> <!-- TODO: Left -->
+			<img id="logo" src="img/logo-32.png" alt="logo" title="Pray!"/> <!-- TODO: Left -->
 			<span id="headline">Pray!</span> <!-- TODO: Left attached -->
 			<span id="version">0.1</span>	<!-- TODO: Left attached -->
 			<!-- TODO: powered by WebDaD-Games (text logo) -->		
 		</div>
 		<div id="content">
 			<div id="points"></div><!-- TODO Upper Right -->
-			<div id="btn_cross"><img src="img/logo_128.png" alt="Cross" title="Pray!"/></div> <!-- TODO Center -->
+			<div id="btn_cross"><img src="img/logo-256.png" alt="Cross" title="Pray!"/></div> <!-- TODO Center -->
 		</div>
 		<div id="footer"> <!-- TODO: bg black -->
 			<!-- TODO: webdad-link(right), impressum-link(left) -->
