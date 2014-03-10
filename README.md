@@ -25,7 +25,7 @@ Another possibily to gain PP is by typing bibleverses.
 - [ ] Basic Framework
 - [ ] Basic Design
 - [ ] JS FrameWork for Mods and Buffs (timeout 100ms)
-- [ ] Basic First Button
+- [X] Basic First Button
 - [ ] Module "People"
 - [ ] Buffer "Beliving"
 - [ ] Buffer "Bible"
