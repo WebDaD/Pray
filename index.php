@@ -3,6 +3,11 @@
 		<title>Pray!</title>
 		<link rel="stylesheet" type="text/css" href="css/style.css"/>
 		<script src="js/jquery-1.11.0.min.js" type="text/javascript" ></script>
+		
+		<script src="js/buffer.js" type="text/javascript" ></script>
+		<script src="js/module.js" type="text/javascript" ></script>
+		<script src="js/achievement.js" type="text/javascript" ></script>
+		<script src="js/world.js" type="text/javascript" ></script>
 		<script src="js/main.js" type="text/javascript" ></script>
 	</head>
 	<body>
@@ -14,7 +19,9 @@
 		</div>
 		<div id="content">
 			<div id="points"></div><!-- TODO Upper Right -->
-			<div id="btn_cross"><img src="img/logo-256.png" alt="Cross" title="Pray!"/></div> <!-- TODO Center -->
+			<div id="pps"></div><!-- TODO: Upper Left -->
+			<div id="btn_cross"><img src="img/logo_256.png" alt="Cross" title="Pray!"/></div> <!-- TODO Center -->
+			<div id="modules"></div><!-- TODO Middle left -->
 		</div>
 		<div id="footer"> <!-- TODO: bg black -->
 			<!-- TODO: webdad-link(right), impressum-link(left) -->

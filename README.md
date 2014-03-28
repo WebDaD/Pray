@@ -24,10 +24,10 @@ Another possibily to gain PP is by typing bibleverses.
 ## 1 (Alpha) YYYY-MM-DD:
 - [ ] Basic Framework
 - [ ] Basic Design
-- [ ] JS FrameWork for Mods and Buffs (timeout 100ms)
+- [X] JS FrameWork for Mods and Buffs (timeout 100ms)
 - [X] Basic First Button
-- [ ] Module "People"
-- [ ] Buffer "Beliving"
+- [X] Module "People"
+- [X] Buffer "Beliving"
 - [ ] Buffer "Bible"
 - [ ] Save AllTime-PP of all via AJAX on server
 
