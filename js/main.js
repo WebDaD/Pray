@@ -43,6 +43,8 @@ $( document ).ready(function() {
 		//refresh point display
 		$("#points").text(Math.floor(myWorld.praypoints));
 		
+		//TODO: Enable / Disable active Module/Buffers graphics (grey) if enough or to less praypoints
+		
 		//refresh pps
 		var pps = 0;
 		$.each(myWorld.modules, function(index,m){
@@ -54,7 +56,7 @@ $( document ).ready(function() {
 		$.each(myWorld.modules, function(index,m){
 			if(!m.display){ //element not drawn yet
 				if(myWorld.praypoints >= m.displayat){ //reached display allow
-					$("#modules").append('<img src="img/'+m.image+'" alt="'+m.name+'" id="'+m.id+'" title="'+m.name+' ('+m.count+')"/>');
+					$("#modules").append('<img src="img/'+m.image+'" alt="'+m.name+'" id="'+m.id+'" title="'+m.name+' ('+m.count+')"/>'); //TODO: Should be a DIV with overlay Count and hover
 					m.display = true;
 					console.log("Drew Module "+m.name);
 				}
@@ -65,7 +67,7 @@ $( document ).ready(function() {
 		$.each(myWorld.buffers, function(index,b){
 			if(!b.display){ //element not drawn yet
 				if(myWorld.praypoints >= b.displayat){ //reached display allow
-					$("#modules").append('<img src="img/'+b.image+'" alt="'+b.name+'" id="'+b.id+'" title="'+b.name+'"/>');
+					$("#modules").append('<img src="img/'+b.image+'" alt="'+b.name+'" id="'+b.id+'" title="'+b.name+'"/>'); //TODO: Hover and Click
 					b.display = true;
 					console.log("Drew Buffer "+b.name);
 				}

@@ -29,7 +29,7 @@ Another possibily to gain PP is by typing bibleverses.
 - [X] Module "People"
 - [X] Buffer "Beliving"
 - [ ] Buffer "Bible"
-- [ ] Save AllTime-PP of all via AJAX on server
+- [ ] Save AllTime-PP of all via AJAX on server (all 1 min)
 
 ## 2 (Beta) YYYY-MM-DD:
 - [ ] More Modules
