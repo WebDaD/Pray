@@ -41,6 +41,8 @@ Another possibily to gain PP is by typing bibleverses.
 - [ ] Load Game-Data from Cookie
 - [ ] Export Game-Data
 - [ ] Import Game-Data
+- [ ] Verse on Click 
+- [ ] Daily Verse
 
 ## 3 (Release) YYYY-MM-DD
 - [ ] Typing Module
@@ -74,9 +76,14 @@ Achievements mark special Events in your Game
 - You have player a while
 - All-Time-PP >= 100, People > 1, Bible
 
+## Typemaster
+- You tiped some verses
+
 # Bibleverses
 Type them to gain pp (each char is a click)
 
 ## verse of the day
+http://www.hradetzkys.de/rss/tageslosung.xml
 
 ## random verse
+ (http://www.bibleserver.com/webmasters/#phplinks) 
