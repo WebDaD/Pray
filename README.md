@@ -51,6 +51,8 @@ Another possibily to gain PP is by typing bibleverses.
 - [ ] More Buffers
 - [ ] More Achievements
 - [ ] Design Update
+- [ ] Implement Analytics
+- [ ] Implement ClickHeat
 
 # Modules
 These create PP per Second and can be bought unlimited
