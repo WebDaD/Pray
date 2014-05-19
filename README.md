@@ -30,6 +30,7 @@ Another possibily to gain PP is by typing bibleverses.
 - [X] Buffer "Beliving"
 - [ ] Buffer "Bible"
 - [ ] Save AllTime-PP of all via AJAX on server (all 1 min)
+- [ ] Point-Counting: Use an Object (array of nums[0-999]) eg 1.512.123 = [1,512,123] build sum, multi, div, minus operations
 
 ## 2 (Beta) YYYY-MM-DD:
 - [ ] More Modules
